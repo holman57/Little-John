@@ -4,8 +4,7 @@ Autonomous python bot that can make trades with the unofficial Robinhood API
 ### Building an Automated Trading System in Robinhood
 - https://towardsdatascience.com/step-by-step-building-an-automated-trading-system-in-robinhood-807d6d929cf3
 
-      git clone https://github.com/LichAmnesia/Robinhood && cd Robinhood
-      sudo python setup.py install
+      pip install git+https://github.com/LichAmnesia/Robinhood
 
 ### Robinhood API
 - https://algotrading101.com/learn/robinhood-api-guide/
